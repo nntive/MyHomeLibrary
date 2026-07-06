@@ -1,0 +1,448 @@
+[
+    {
+        "title": "The Hammerhead Light",
+        "author": "Colin Thiele",
+        "pages": 150,
+        "genre": [
+            "Adventure",
+            "Young adult"
+        ],
+        "reader": "Sasha",
+        "rating": 7.6,
+        "is_read": true
+    },
+    {
+        "title": "My Lost Element, Vol. 1",
+        "author": "Acacia Black",
+        "pages": 614,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "reader": "Sasha",
+        "rating": 8.5,
+        "is_read": true
+    },
+    {
+        "title": "My Lost Element, Vol. 2",
+        "author": "Acacia Black",
+        "pages": 510,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "reader": "Sasha",
+        "rating": 9.0,
+        "is_read": true
+    },
+    {
+        "title": "Girl Online",
+        "author": "Zoe Sugg",
+        "pages": 352,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "reader": "Sasha",
+        "rating": 6.0,
+        "is_read": true
+    },
+    {
+        "title": "A Thousand Boy Kisses",
+        "author": "Tillie Cole",
+        "pages": 316,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "reader": "Sasha",
+        "rating": 9.4,
+        "is_read": true
+    },
+    {
+        "title": "The One That Got Away",
+        "author": "Charlotte Rixon",
+        "pages": 400,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "reader": "Sasha",
+        "rating": 4.5,
+        "is_read": true
+    },
+    {
+        "title": "Looking for Alaska",
+        "author": "John Green",
+        "pages": 221,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "reader": "Sasha",
+        "rating": 7.0,
+        "is_read": true
+    },
+    {
+        "title": "The Girl Who Loved Tom Gordon",
+        "author": "Stephen King",
+        "pages": 224,
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "reader": "Artem",
+        "rating": 8.0,
+        "is_read": false
+    },
+    {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "pages": 223,
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "reader": "Artem",
+        "rating": 9.8,
+        "is_read": true
+    },
+    {
+        "title": "Murder on the Orient Express",
+        "author": "Agatha Christie",
+        "pages": 256,
+        "genre": [
+            "Detective",
+            "Mystery"
+        ],
+        "reader": "Artem",
+        "rating": 8.9,
+        "is_read": true
+    },
+    {
+        "title": "The Shining",
+        "author": "Stephen King",
+        "pages": 447,
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "reader": "Artem",
+        "rating": 9.2,
+        "is_read": false
+    },
+    {
+        "title": "Joyland",
+        "author": "Stephen King",
+        "pages": 283,
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "reader": "Artem",
+        "rating": 9.9,
+        "is_read": true
+    },
+    {
+        "title": "Hatchet",
+        "author": "Gary Paulsen",
+        "pages": 195,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Survival"
+        ],
+        "reader": "Artem",
+        "rating": 8.9,
+        "is_read": true
+    },
+    {
+        "title": "An Unwanted Guest",
+        "author": "Shari Lapena",
+        "pages": 290,
+        "genre": [
+            "Detective",
+            "Mystery",
+            "Thriller"
+        ],
+        "reader": "Artem",
+        "rating": 9.1,
+        "is_read": true
+    },
+    {
+        "title": "Anne of Green Gables",
+        "author": "L.M. Montgomery",
+        "pages": 320,
+        "genre": [
+            "Drama"
+        ],
+        "reader": "Sasha",
+        "rating": 7.8,
+        "is_read": true
+    },
+    {
+        "title": "It Ends with Us",
+        "author": "Colleen Hoover",
+        "pages": 381,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "reader": "Sasha",
+        "rating": 7.3,
+        "is_read": true
+    },
+    {
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "pages": 313,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "reader": "Sasha",
+        "rating": 8.0,
+        "is_read": true
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "pages": 281,
+        "genre": [
+            "Drama",
+            "Historical Fiction"
+        ],
+        "reader": "Sasha",
+        "rating": 5.0,
+        "is_read": true
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "pages": 328,
+        "genre": [
+            "Drama",
+            "Dystopian",
+            "Sci-Fi"
+        ],
+        "reader": "Artem",
+        "rating": 9.4,
+        "is_read": true
+    },
+    {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "pages": 289,
+        "genre": [
+            "Drama",
+            "Tragedy"
+        ],
+        "reader": "Sasha",
+        "rating": 3.0,
+        "is_read": true
+    },
+    {
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare",
+        "pages": 300,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "reader": "Artem",
+        "rating": 8.0,
+        "is_read": true
+    },
+    {
+        "title": "Dick Sand, A Captain at Fifteen",
+        "author": "Jules Verne",
+        "pages": 400,
+        "genre": [
+            "Adventure"
+        ],
+        "reader": "Artem",
+        "rating": 7.0,
+        "is_read": true
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "pages": 254,
+        "genre": [
+            "Drama",
+            "Horror",
+            "Mystery"
+        ],
+        "reader": "Sasha",
+        "rating": 8.3,
+        "is_read": true
+    },
+    {
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exup\u00e9ry",
+        "pages": 96,
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "reader": "Sasha",
+        "rating": 5.0,
+        "is_read": true
+    },
+    {
+        "title": "The Black Council",
+        "author": "Panteleimon Kulish",
+        "pages": 320,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Historical Fiction"
+        ],
+        "reader": "Artem",
+        "rating": 2.0,
+        "is_read": true
+    },
+    {
+        "title": "Do Oxen Low When Mangers are Full?",
+        "author": "Panas Myrny",
+        "pages": 350,
+        "genre": [
+            "Drama",
+            "Historical Fiction"
+        ],
+        "reader": "Sasha",
+        "rating": 7.2,
+        "is_read": true
+    },
+    {
+        "title": "The City",
+        "author": "Valerian Pidmohylny",
+        "pages": 300,
+        "genre": [
+            "Drama"
+        ],
+        "reader": "Sasha",
+        "rating": 8.0,
+        "is_read": true
+    },
+    {
+        "title": "The Kaidash Family",
+        "author": "Ivan Nechuy-Levytsky",
+        "pages": 250,
+        "genre": [
+            "Drama"
+        ],
+        "reader": "Sasha",
+        "rating": 6.8,
+        "is_read": true
+    },
+    {
+        "title": "Martyn Borulia",
+        "author": "Ivan Karpenko-Karyi",
+        "pages": 150,
+        "genre": [
+            "Drama",
+            "Historical Fiction"
+        ],
+        "reader": "Artem",
+        "rating": 7.7,
+        "is_read": true
+    },
+    {
+        "title": "Shadows of Forgotten Ancestors",
+        "author": "Mykhailo Kotsiubynsky",
+        "pages": 120,
+        "genre": [
+            "Drama",
+            "Historical Fiction",
+            "Romance"
+        ],
+        "reader": "Sasha",
+        "rating": 6.675,
+        "is_read": true
+    },
+    {
+        "title": "Intermezzo",
+        "author": "Mykhailo Kotsiubynsky",
+        "pages": 30,
+        "genre": [
+            "Drama"
+        ],
+        "reader": "Artem",
+        "rating": 5.75,
+        "is_read": true
+    },
+    {
+        "title": "The Stone Cross",
+        "author": "Vasyl Stefanyk",
+        "pages": 50,
+        "genre": [
+            "Drama",
+            "Historical Fiction"
+        ],
+        "reader": "Sasha",
+        "rating": 4.0,
+        "is_read": true
+    },
+    {
+        "title": "Tiger Catchers",
+        "author": "Ivan Bahrianyi",
+        "pages": 300,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Historical Fiction"
+        ],
+        "reader": "Sasha",
+        "rating": 7.5,
+        "is_read": true
+    },
+    {
+        "title": "The Chimera of the Forest Lake",
+        "author": "Yaroslav Stelmakh",
+        "pages": 160,
+        "genre": [
+            "Adventure",
+            "Mystery"
+        ],
+        "reader": "Artem",
+        "rating": 8.375,
+        "is_read": true
+    },
+    {
+        "title": "I (Romance)",
+        "author": "Mykola Khvylovy",
+        "pages": 50,
+        "genre": [
+            "Drama",
+            "Historical Fiction"
+        ],
+        "reader": "Sasha",
+        "rating": 3.0,
+        "is_read": true
+    },
+    {
+        "title": "Myna Mazailo",
+        "author": "Mykola Kulish",
+        "pages": 150,
+        "genre": [
+            "Drama",
+            "Historical Fiction"
+        ],
+        "reader": "Sasha",
+        "rating": 4.0,
+        "is_read": true
+    },
+    {
+        "title": "Pet Sematary",
+        "author": "Stephen King",
+        "pages": 374,
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "reader": "Artem",
+        "rating": 8.7,
+        "is_read": false
+    }
+]
